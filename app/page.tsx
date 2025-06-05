@@ -179,7 +179,7 @@ export default function FeaturedEventsPage() {
               <Sparkles className="h-8 w-8 text-pink-500 ml-2" />
             </div>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Don't miss out on these absolutely dreamy upcoming events in your area 💕
+              Donot miss out on these absolutely dreamy upcoming events in your area 💕
             </p>
           </div>
 
