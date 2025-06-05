@@ -24,7 +24,7 @@ Before you begin, make sure you have installed:
 1. **Clone or download this project**
    ```bash
    # If using Git
-   git clone https://github.com/manal-shahid/EventBlossom.git
+   git clone https://github.com/manal-shahid/eventblossom.git
    cd eventblossom
    
    # Or create a new Next.js project and copy the files
